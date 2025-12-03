@@ -17,3 +17,6 @@ Herramientas utilizadas
     • Clientes FTP/SSH para interactuar con los servicios identificados. (FTP,id_rsa)
 
 
+
+
+
