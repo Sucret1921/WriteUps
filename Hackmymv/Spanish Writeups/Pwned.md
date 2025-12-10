@@ -89,7 +89,7 @@ Una vez hemos entrado podemos ver que en el “/home” de Selena se puede ver n
 
 > Captura que encuentro el grupo docker y ejecuto el script para encontrar que es root
 
-Luego de estar buscando un rato una posible pista porque ninguno de los 2 archivos ayudo realmente a seguir probé a buscar en los grupos que estaba selena y fue interesante porqué estaba en el “docker group” de esta forma buscando encontre que con el siguente comando entrariamos como root del sistema, aprovechando este vulnerabilidad de docker. 
+Luego de estar buscando un rato una posible pista porque ninguno de los 2 archivos ayudo realmente a seguir probé a buscar en los grupos que estaba selena y fue interesante porqué estaba en el “docker group” de esta forma buscando encontre que con el siguente comando podemos entrar como root del sistema, aprovechando esta vulnerabilidad de docker. 
 
 ``` docker run -v /:/mnt --rm -it alpine chroot /mnt sh ```
 
@@ -102,6 +102,7 @@ Luego de estar buscando un rato una posible pista porque ninguno de los 2 archiv
 1. GTFOBins. (s. f.). Docker — shell. GTFOBins. (https://gtfobins.github.io/gtfobins/docker/)
 2. HackMyVM. (s. f.). Plataforma de máquinas virtuales para hacking ético. HackMyVM. (https://hackmyvm.eu/)
 3. Wfuzz. (s. f.). Wfuzz — Documentation. Read the Docs. (https://wfuzz.readthedocs.io/en/latest/)
+
 
 
 
