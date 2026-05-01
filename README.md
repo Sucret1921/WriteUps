@@ -9,8 +9,8 @@
 
 | Module | Description |
 |--------|-------------|
-| [🔍 Fuzzing](./fuzzing.md) | Gobuster, Wfuzz, Dirb, Ffuf |
-| [🌐 Network](./network.md) | Nmap, Netcat, SMB, FTP, DNS |
+| [🔍 Fuzzing](/fuzzing.md) | Gobuster, Wfuzz, Dirb, Ffuf |
+| [🌐 Network](/network.md) | Nmap, Netcat, SMB, FTP, DNS |
 | 🔐 Web Attacks | *coming soon* |
 | 💉 SQL Injection | *coming soon* |
 | 🐚 Reverse Shells | *coming soon* |
