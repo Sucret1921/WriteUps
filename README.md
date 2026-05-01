@@ -36,7 +36,7 @@
 > 📡 **Wireless** *(coming soon)*
 > `Aircrack-ng` `Airodump` `Handshake` — WiFi attacks
 
-> 🪟 **Windows PrivEsc** *(coming soon)*
+> 🖥️ **Windows PrivEsc** *(coming soon)*
 > `WinPEAS` `PowerUp` `Token Impersonation` — Escalation
 
 > 🐧 **Linux PrivEsc** *(coming soon)*
