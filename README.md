@@ -15,29 +15,51 @@
 
 ## 📚 Index
 
-| Module | Tools | Status |
-|--------|-------|--------|
-| [🔍 Fuzzing](./Fuzzing.md) | Gobuster · Wfuzz · Dirb · Ffuf | ✅ |
-| [🌐 Network](./Network.md) | Nmap · Netcat · SMB · FTP · DNS | ✅ |
-| 🔐 Web Attacks | XSS · CSRF · LFI · RFI | 🔜 |
-| 💉 SQL Injection | SQLmap · Manual · Blind | 🔜 |
-| 🐚 Reverse Shells | Bash · Python · PHP · nc | 🔜 |
-| 🔑 Password Cracking | Hashcat · John · Hydra | 🔜 |
-| 📡 Wireless | Aircrack-ng · Airodump | 🔜 |
-| 🪟 Windows PrivEsc | WinPEAS · PowerUp · Token | 🔜 |
-| 🐧 Linux PrivEsc | LinPEAS · SUID · Cron | 🔜 |
+> 🔍 **[Fuzzing](./Fuzzing.md)**
+> `Gobuster` `Wfuzz` `Dirb` `Ffuf` — Directory & file enumeration
+
+> 🌐 **[Network](./Network.md)**
+> `Nmap` `Netcat` `SMB` `FTP` `DNS` — Scanning & enumeration
+
+> 🔐 **Web Attacks** *(coming soon)*
+> `XSS` `CSRF` `LFI` `RFI` — Web exploitation techniques
+
+> 💉 **SQL Injection** *(coming soon)*
+> `SQLmap` `Manual` `Blind` `Error-based` — Database attacks
+
+> 🐚 **Reverse Shells** *(coming soon)*
+> `Bash` `Python` `PHP` `nc` — Getting shells
+
+> 🔑 **Password Cracking** *(coming soon)*
+> `Hashcat` `John the Ripper` `Hydra` — Credential attacks
+
+> 📡 **Wireless** *(coming soon)*
+> `Aircrack-ng` `Airodump` `Handshake` — WiFi attacks
+
+> 🪟 **Windows PrivEsc** *(coming soon)*
+> `WinPEAS` `PowerUp` `Token Impersonation` — Escalation
+
+> 🐧 **Linux PrivEsc** *(coming soon)*
+> `LinPEAS` `SUID` `Cron` `Capabilities` — Escalation
 
 ---
 
 ## 🖥️ Practice Platforms
 
-| Platform | Description | Status |
-|----------|-------------|--------|
-| [💻 HackMyVM](./Hackmymv) | Writeups & machine walkthroughs | ✅ Active |
-| [🟥 TryHackMe](https://tryhackme.com) | Guided rooms & learning paths | 🔜 Soon |
-| [🟧 HackTheBox](https://hackthebox.com) | Pro labs & CTF machines | 🔜 Soon |
-| [🟦 VulnHub](https://vulnhub.com) | Offline vulnerable VMs | 🔜 Soon |
-| [🟩 PortSwigger](https://portswigger.net/web-security) | Web Security Academy — OWASP labs | 🔜 Soon |
+> ✅ **[💻 HackMyVM](./Hackmymv)**
+> Writeups & machine walkthroughs — *active*
+
+> 🔜 **[🟥 TryHackMe](https://tryhackme.com)**
+> Guided rooms & learning paths — *coming soon*
+
+> 🔜 **[🟧 HackTheBox](https://hackthebox.com)**
+> Pro labs & CTF machines — *coming soon*
+
+> 🔜 **[🟦 VulnHub](https://vulnhub.com)**
+> Offline vulnerable VMs — *coming soon*
+
+> 🔜 **[🟩 PortSwigger](https://portswigger.net/web-security)**
+> Web Security Academy — OWASP labs — *coming soon*
 
 ---
 
