@@ -4,7 +4,13 @@
 > Directory and file enumeration techniques for web applications.
 
 ---
+<div align="center">
 
+[![Back to Home](https://img.shields.io/badge/←_Back-README-1D9E75?style=for-the-badge&logo=github&logoColor=white)](./README.md)
+
+</div>
+
+---
 ## Gobuster
 
 ```bash
